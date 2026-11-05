@@ -13,6 +13,8 @@
 ## 4. ブランチ操作
 * [git branch コマンド](module4-1.md)
 * [git checkout コマンド](module4-2.md)
+## 5. ブランチ操作 
+* [git checkout コマンド](module5-2.md) 
 
 ## 5. ブランチ操作 
 * [git branch コマンド](module5-1.md) 
