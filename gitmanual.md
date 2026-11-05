@@ -13,5 +13,6 @@
 ## 4. ブランチ操作
 * [git branch コマンド](module4-1.md)
 * [git checkout コマンド](module4-2.md)
+## 5. 誤った修正 
 
 ![Copyright example.corp](./image/copyright.jpg)
